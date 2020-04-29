@@ -1,0 +1,11 @@
+{
+  "name": "displayarraysearch",
+  "version": "1.0.0",
+  "description": "Search an array with DOM input ",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Bishop",
+  "license": "MIT"
+}
